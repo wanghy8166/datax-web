@@ -1,7 +1,7 @@
 ### 下载依赖文件
 ```
-mkdir -p /opt/datax-web
-cd /opt/datax-web
+mkdir -p /opt/datax-web/docker
+cd /opt/datax-web/docker
 # yum install -y svn
 # svn checkout https://github.com/WeiYe-Jing/datax-web/trunk/docker
 wget https://github.com/wanghy8166/datax-web/blob/dev/docker/bootstrap.properties  
